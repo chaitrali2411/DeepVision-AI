@@ -1,0 +1,39 @@
+{
+  "video": "roomcare/dataset/injection/injection1.mp4",
+  "frames_processed": 192,
+  "events": [
+    {
+      "id": 5,
+      "ts": 1772320590.995147,
+      "event_type": "injection_event",
+      "source": "vision",
+      "verification_level": 0.4,
+      "raw_metadata": null
+    },
+    {
+      "id": 6,
+      "ts": 1772320602.754213,
+      "event_type": "injection_event",
+      "source": "vision",
+      "verification_level": 0.4,
+      "raw_metadata": null
+    },
+    {
+      "id": 7,
+      "ts": 1772320609.427325,
+      "event_type": "injection_event",
+      "source": "vision",
+      "verification_level": 0.4,
+      "raw_metadata": null
+    },
+    {
+      "id": 8,
+      "ts": 1772320615.4565928,
+      "event_type": "injection_event",
+      "source": "vision",
+      "verification_level": 0.4,
+      "raw_metadata": null
+    }
+  ],
+  "alerts": []
+}

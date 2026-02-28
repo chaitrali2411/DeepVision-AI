@@ -1,0 +1,2 @@
+# Put user input videos here for inference (any video to classify).
+# Do NOT use these for training; keep training data in dataset/.
