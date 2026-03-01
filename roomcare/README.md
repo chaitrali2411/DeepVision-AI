@@ -53,7 +53,6 @@ The model is trained on **all three** event types from `dataset/`:
 
 - Put **any** video you want to analyze in `roomcare/input/` (or pass any path).
 - Run the agent on that video; results go to `--output` (e.g. `results.json`).
-- Training videos (e.g. `injection1.mp4` in `dataset/injection/`) should **not** be the only thing you run inference on — use **new** videos in `input/` (or elsewhere) to get real-world results.
 
 ## Folder layout
 
